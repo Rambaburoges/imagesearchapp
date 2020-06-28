@@ -1,1 +1,0 @@
-angular image web app
